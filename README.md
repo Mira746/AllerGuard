@@ -1,6 +1,6 @@
 Synapse_2025
 📝 Project Report: Food Allergen Detection and Recommendation System
-👩‍⚕️ Objective
+👩‍⚕️ Objective:
 Design a system to:
 
 Detect potential allergens in meals.
