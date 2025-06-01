@@ -1,4 +1,4 @@
-Synapse_2025
+#Synapse_2025
 📝 Project Report: Food Allergen Detection and Recommendation System
 👩‍⚕️ Objective:
 Design a system to:
