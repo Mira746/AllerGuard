@@ -30,7 +30,7 @@ Endpoint: https://world.openfoodfacts.org/api/v0/product/{barcode}.json
 1. Allergen Detection (Multi-label Classification)
 Input: Ingredients (text)
 Output: List of allergens
-Model: K Means Clustering
+Model:Random Forest Classifier
 Vectorizer: TF-IDF Vectorizer
 Evaluation: MultiLabelBinarizer for training labels
 2. Risk Level Prediction (Text Classification)
