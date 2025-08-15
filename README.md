@@ -105,10 +105,3 @@ Successfully trained models for risk and allergen detection.
 Integrated barcode scanning and image-to-text OCR.
 Rule-based and API-backed alternative suggestion system.
 Clustering model groups similar food items for better navigation.
-👩‍🔬 Group Members:-
-
-Komal Sikchi
-
-Mira Vadjikar
-
-Nidhi Borkar
